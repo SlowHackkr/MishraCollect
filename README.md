@@ -9,7 +9,7 @@ A personal bash tool for collecting user input and saving it in structured JSON 
 ## Make it executable:
 ```bash
 chmod +x run.sh
-chmod +x collect.sh
+chmod +x emailCheck_JsonFormat.sh
 ```
 ## 🚀 Run It
 
