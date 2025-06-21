@@ -78,8 +78,8 @@ This will:
 ```json
 [
   {
-    "name": "Arun Mishra",
-    "email": "arun@example.com",
+    "name": "Your Name",
+    "email": "youremail@example.com",
     "age": 22
   }
 ]
